@@ -3,7 +3,7 @@
     <groupId>Selenium_Project</groupId>
     <artifactId>Selenium_Project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
 
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
